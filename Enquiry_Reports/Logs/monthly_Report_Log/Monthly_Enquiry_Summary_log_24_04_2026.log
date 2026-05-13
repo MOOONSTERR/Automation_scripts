@@ -1,0 +1,12 @@
+2026-04-24 15:52:01,965 - [INFO] - --- Monthly Report Generation Started (Dual Mailbox) ---
+2026-04-24 15:52:01,965 - [INFO] - Processing Account: enquiry@jpnelson.com.sg
+2026-04-24 15:52:01,965 - [INFO] - Action: Requesting Token for enquiry@jpnelson.com.sg
+2026-04-24 15:52:02,744 - [INFO] - Step: Fetching message cache for enquiry@jpnelson.com.sg since 2026-02-01
+2026-04-24 15:52:20,110 - [INFO] - Step: Fetching Sent Forwards for enquiry@jpnelson.com.sg (2026-03-01 to 2026-03-31)
+2026-04-24 15:52:23,500 - [INFO] - Processing Account: sales@antar.com.sg
+2026-04-24 15:52:23,500 - [INFO] - Action: Requesting Token for sales@antar.com.sg
+2026-04-24 15:52:24,285 - [INFO] - Step: Fetching message cache for sales@antar.com.sg since 2026-02-01
+2026-04-24 15:52:34,344 - [INFO] - Step: Fetching Sent Forwards for sales@antar.com.sg (2026-03-01 to 2026-03-31)
+2026-04-24 15:52:34,889 - [INFO] - Report saved to Monthly_Reports\Monthly Enquiry Summary 03_2026.xlsx
+2026-04-24 15:52:35,573 - [INFO] - Success: Monthly report emailed.
+2026-04-24 15:52:35,573 - [INFO] - --- Monthly Task Completed ---

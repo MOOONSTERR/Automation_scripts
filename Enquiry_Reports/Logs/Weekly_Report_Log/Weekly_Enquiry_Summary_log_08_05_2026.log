@@ -1,0 +1,11 @@
+2026-05-08 17:40:35,329 - [INFO] - --- Linux Adaption Version Started ---
+2026-05-08 17:40:35,330 - [INFO] - Action: Processing enquiry@jpnelson.com.sg
+2026-05-08 17:40:35,330 - [INFO] - Action: Requesting Token for enquiry@jpnelson.com.sg
+2026-05-08 17:40:36,196 - [INFO] - Step: Fetching all messages for enquiry@jpnelson.com.sg
+2026-05-08 17:40:48,619 - [INFO] - Step: Fetching SentItems for enquiry@jpnelson.com.sg
+2026-05-08 17:40:50,697 - [INFO] - Action: Processing sales@antar.com.sg
+2026-05-08 17:40:50,697 - [INFO] - Action: Requesting Token for sales@antar.com.sg
+2026-05-08 17:40:51,888 - [INFO] - Step: Fetching all messages for sales@antar.com.sg
+2026-05-08 17:40:55,767 - [INFO] - Step: Fetching SentItems for sales@antar.com.sg
+2026-05-08 17:40:57,616 - [INFO] - Success: Email sent.
+2026-05-08 17:40:57,616 - [INFO] - --- Execution Completed ---

@@ -1,0 +1,74 @@
+2026-04-24 14:01:40,883 - [INFO] - --- Starting Weekly Report Generation Process ---
+2026-04-24 14:01:40,884 - [INFO] - Action: Beginning processing for mailbox enquiry@jpnelson.com.sg.
+2026-04-24 14:01:40,884 - [INFO] - Step: Requesting Access Token for enquiry@jpnelson.com.sg...
+2026-04-24 14:01:41,820 - [INFO] - Success: Token acquired for enquiry@jpnelson.com.sg.
+2026-04-24 14:01:41,820 - [INFO] - Step: Fetching Inbox messages for enquiry@jpnelson.com.sg since 2026-03-01...
+2026-04-24 14:01:49,989 - [ERROR] - Error: API returned 400 for enquiry@jpnelson.com.sg Inbox.
+2026-04-24 14:01:49,989 - [INFO] - Success: Cached 155 original emails from enquiry@jpnelson.com.sg.
+2026-04-24 14:01:49,990 - [INFO] - Step: Fetching SentItems (Forwards) for enquiry@jpnelson.com.sg since 2026-04-20...
+2026-04-24 14:01:50,859 - [ERROR] - Error: API returned 400 for enquiry@jpnelson.com.sg SentItems.
+2026-04-24 14:01:50,859 - [INFO] - Success: Found 8 relevant forwards in enquiry@jpnelson.com.sg.
+2026-04-24 14:01:50,860 - [INFO] - Step: Matching forwards with original emails for enquiry@jpnelson.com.sg...
+2026-04-24 14:01:50,860 - [INFO] - Result: Successfully matched 8 out of 8 items for enquiry@jpnelson.com.sg.
+2026-04-24 14:01:50,860 - [INFO] - Action: Beginning processing for mailbox sales@antar.com.sg.
+2026-04-24 14:01:50,861 - [INFO] - Step: Requesting Access Token for sales@antar.com.sg...
+2026-04-24 14:01:51,705 - [INFO] - Success: Token acquired for sales@antar.com.sg.
+2026-04-24 14:01:51,705 - [INFO] - Step: Fetching Inbox messages for sales@antar.com.sg since 2026-03-01...
+2026-04-24 14:02:07,190 - [ERROR] - Error: API returned 400 for sales@antar.com.sg Inbox.
+2026-04-24 14:02:07,190 - [INFO] - Success: Cached 48 original emails from sales@antar.com.sg.
+2026-04-24 14:02:07,192 - [INFO] - Step: Fetching SentItems (Forwards) for sales@antar.com.sg since 2026-04-20...
+2026-04-24 14:02:07,665 - [INFO] - Success: Found 2 relevant forwards in sales@antar.com.sg.
+2026-04-24 14:02:07,666 - [INFO] - Step: Matching forwards with original emails for sales@antar.com.sg...
+2026-04-24 14:02:07,667 - [INFO] - Result: Successfully matched 2 out of 2 items for sales@antar.com.sg.
+2026-04-24 14:02:07,703 - [INFO] - Step: Saving report to Weekly_Reports\Weekly Enquiry Summary 24_04_2026.xlsx...
+2026-04-24 14:02:07,743 - [INFO] - Success: Excel formatted with bold headers and grey background.
+2026-04-24 14:02:07,743 - [INFO] - Step: Attempting to send report via enquiry@jpnelson.com.sg...
+2026-04-24 14:02:08,330 - [INFO] - Success: Email sent to recipient and CC successfully.
+2026-04-24 14:02:08,330 - [INFO] - --- All Tasks Completed ---
+2026-04-24 14:13:23,046 - [INFO] - --- Execution Started ---
+2026-04-24 14:13:23,046 - [INFO] - Processing Account: enquiry@jpnelson.com.sg
+2026-04-24 14:13:23,046 - [INFO] - Action: Requesting Access Token for enquiry@jpnelson.com.sg
+2026-04-24 14:13:23,956 - [INFO] - Success: Token acquired for enquiry@jpnelson.com.sg
+2026-04-24 14:13:23,956 - [INFO] - Step: Fetching Inbox for enquiry@jpnelson.com.sg
+2026-04-24 14:13:28,875 - [INFO] - Success: Cached 155 emails for enquiry@jpnelson.com.sg
+2026-04-24 14:13:28,877 - [INFO] - Step: Fetching SentItems for enquiry@jpnelson.com.sg
+2026-04-24 14:13:29,691 - [INFO] - Success: Found 7 forwards in enquiry@jpnelson.com.sg
+2026-04-24 14:13:29,691 - [INFO] - Processing Account: sales@antar.com.sg
+2026-04-24 14:13:29,691 - [INFO] - Action: Requesting Access Token for sales@antar.com.sg
+2026-04-24 14:13:31,043 - [INFO] - Success: Token acquired for sales@antar.com.sg
+2026-04-24 14:13:31,043 - [INFO] - Step: Fetching Inbox for sales@antar.com.sg
+2026-04-24 14:13:42,888 - [INFO] - Success: Cached 48 emails for sales@antar.com.sg
+2026-04-24 14:13:42,889 - [INFO] - Step: Fetching SentItems for sales@antar.com.sg
+2026-04-24 14:13:43,369 - [INFO] - Success: Found 2 forwards in sales@antar.com.sg
+2026-04-24 14:13:43,388 - [INFO] - Step: Saving formatted Excel to Weekly_Reports\Weekly Enquiry Summary 24_04_2026.xlsx
+2026-04-24 14:13:43,419 - [INFO] - Step: Sending email via enquiry@jpnelson.com.sg
+2026-04-24 14:13:43,915 - [INFO] - Success: Email dispatched successfully.
+2026-04-24 14:13:43,915 - [INFO] - --- Execution Completed ---
+2026-04-24 14:23:18,789 - [INFO] - --- Execution Started ---
+2026-04-24 14:23:18,789 - [INFO] - Processing Account: enquiry@jpnelson.com.sg
+2026-04-24 14:23:18,789 - [INFO] - Action: Requesting Access Token for enquiry@jpnelson.com.sg
+2026-04-24 14:23:19,706 - [INFO] - Step: Fetching all messages for enquiry@jpnelson.com.sg since 2026-03-01
+2026-04-24 14:23:58,279 - [INFO] - Success: Cached 1293 messages from across all folders for enquiry@jpnelson.com.sg
+2026-04-24 14:23:58,280 - [INFO] - Step: Fetching SentItems for enquiry@jpnelson.com.sg
+2026-04-24 14:23:59,165 - [INFO] - Success: Found 10 relevant forwards in enquiry@jpnelson.com.sg
+2026-04-24 14:23:59,166 - [INFO] - Processing Account: sales@antar.com.sg
+2026-04-24 14:23:59,166 - [INFO] - Action: Requesting Access Token for sales@antar.com.sg
+2026-04-24 14:24:00,049 - [INFO] - Step: Fetching all messages for sales@antar.com.sg since 2026-03-01
+2026-04-24 14:24:06,365 - [INFO] - Success: Cached 230 messages from across all folders for sales@antar.com.sg
+2026-04-24 14:24:06,365 - [INFO] - Step: Fetching SentItems for sales@antar.com.sg
+2026-04-24 14:24:06,857 - [INFO] - Success: Found 2 relevant forwards in sales@antar.com.sg
+2026-04-24 14:24:06,886 - [INFO] - Step: Saving report to Weekly_Reports\Weekly Enquiry Summary 24_04_2026.xlsx
+2026-04-24 14:24:06,957 - [INFO] - Step: Sending email via enquiry@jpnelson.com.sg
+2026-04-24 14:24:07,487 - [INFO] - Success: Email dispatched.
+2026-04-24 14:24:07,487 - [INFO] - --- Execution Completed ---
+2026-04-24 15:59:37,417 - [INFO] - --- Linux Adaption Version Started ---
+2026-04-24 15:59:37,418 - [INFO] - Action: Processing enquiry@jpnelson.com.sg
+2026-04-24 15:59:37,418 - [INFO] - Action: Requesting Token for enquiry@jpnelson.com.sg
+2026-04-24 15:59:38,351 - [INFO] - Step: Fetching all messages for enquiry@jpnelson.com.sg
+2026-04-24 15:59:47,563 - [INFO] - Step: Fetching SentItems for enquiry@jpnelson.com.sg
+2026-04-24 15:59:48,510 - [INFO] - Action: Processing sales@antar.com.sg
+2026-04-24 15:59:48,510 - [INFO] - Action: Requesting Token for sales@antar.com.sg
+2026-04-24 15:59:49,425 - [INFO] - Step: Fetching all messages for sales@antar.com.sg
+2026-04-24 15:59:51,547 - [INFO] - Step: Fetching SentItems for sales@antar.com.sg
+2026-04-24 15:59:52,596 - [INFO] - Success: Email sent.
+2026-04-24 15:59:52,596 - [INFO] - --- Execution Completed ---
